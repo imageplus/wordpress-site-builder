@@ -1,0 +1,12 @@
+[submodule "base-plugins/imageplus-image-optimization"]
+	path = base-plugins/imageplus-image-optimization
+	url = git@github.com:imageplus/wordpress-image-optimization.git
+[submodule "base-plugins/imageplus-site-version-control"]
+	path = base-plugins/imageplus-site-version-control
+	url = git@github.com:imageplus/wordpress-site-version-control.git
+[submodule "base-theme"]
+	path = base-theme
+	url = git@github.com:imageplus/wordpress-base-theme.git
+[submodule "base-plugins/s3-uploads"]
+	path = base-plugins/s3-uploads
+	url = git@github.com:imageplus/S3-Uploads.git

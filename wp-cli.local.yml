@@ -1,0 +1,15 @@
+path: public
+url: http://wordpress-site.local
+
+core download:
+  locale: en_GB
+
+config create: 
+  dbname: homestead
+  dbuser: homestead
+  dbpass: secret
+
+core install:
+  title:       site_title
+  admin_user:  admin
+  admin_email: harry.hindson@image-plus.co.uk
